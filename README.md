@@ -1,5 +1,3 @@
-# Superbadge-Apex-Callouts
-
 # Superbadge Apex Callouts: Fase 2 - Test Rewards Callout Service
 
 ## Descrição do Desafio
