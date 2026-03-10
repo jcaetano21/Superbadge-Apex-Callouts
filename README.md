@@ -1,5 +1,3 @@
-# Superbadge-Apex-Callouts
-
 # Superbadge Apex Callouts: Fase 1 - Rewards Management
 
 ## Descrição do Desafio
